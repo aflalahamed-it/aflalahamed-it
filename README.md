@@ -39,11 +39,8 @@
 
 ## 📂 Featured Projects
 
-### Event Photography Management System
-A web-based system designed to manage event photography bookings, customers, and related operations.
 
-### Student Course Registration System
-A Java-based application developed using object-oriented programming concepts for managing student course registrations.
+
 
 ## 📜 Certifications
 
