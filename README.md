@@ -38,15 +38,17 @@
 - IntelliJ IDEA
 
 ## 📂 Featured Projects
+### Event Photography Management System
 
+### Student Course Registration System
 
 
 
 ## 📜 Certifications
 
-- AWS Academy Courses
 - Python for Beginners
 - Web Design for Beginners
+- Python Programming 
 - Additional certifications will be added as I continue my learning journey.
 
 ## 📫 Connect With Me
